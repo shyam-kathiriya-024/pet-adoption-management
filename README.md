@@ -217,8 +217,8 @@ npm run format      # Format code
 ```
 
 ## Deployment Links
-- Frontend (live): 
-- Backend API: 
+- Frontend (live): [Pet Adoption Management FE](https://pet-adoption-management.vercel.app)
+- Backend API: [Pet Adoption Management API](https://pet-adoption-management-backend.onrender.com/api/v1)
 
 
 ## Production Build
