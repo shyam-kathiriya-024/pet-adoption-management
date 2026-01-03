@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "src/**/*",
+    "scripts/**/*",
+    "eslint.config.mjs",
+    "prettier.config.mjs",
+    "commitlint.config.js",
+    "husky.config.js"
+  ],
+  "exclude": ["node_modules", "dist"]
+}
